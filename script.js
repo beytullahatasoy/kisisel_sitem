@@ -47,8 +47,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* --- TYPING SUBHEADINGS ANIMATION --- */
   const words = [
-    "Mobile Application Development",
-    "Machine Learning & AI Solutions",
+    "Cloud Engineering & Infrastructure",
+    "Backend Development with .NET",
     "Huawei Cloud Architectures"
   ];
   let wordIdx = 0;
